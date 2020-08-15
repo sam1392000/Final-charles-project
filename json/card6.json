@@ -1,0 +1,50 @@
+dishes=[
+  {
+    name:"Chicken Fried Rice",
+    type:"Non-Veg",
+    description:"Chicken Fried Rice",
+    img:"images/card6/Chicken Fried Rice.jpg",
+    price:"81",
+    bestSeller:true
+  },
+  {
+    name:"Chicken Noodles",
+    type:"Non-Veg",
+    description:"Chicken Noodles",
+    img:"images/card6/Chicken Noodles.jpg",
+    price:"81",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Fried Rice",
+    type:"Non-Veg",
+    description:"Mutton Fried Rice",
+    img:"images/card6/Mutton Fried Rice.jpg",
+    price:"184",
+    bestSeller:true
+  },
+  {
+    name:"Mutton Noodles",
+    type:"Non-Veg",
+    description:"Mutton Noodles",
+    img:"images/card6/Mutton Noodles.jpeg",
+    price:"184",
+    bestSeller:false
+  },
+  {
+    name:"Veg Fried Rice",
+    type:"Veg",
+    description:"Veg Fried Rice",
+    img:"images/card6/Veg Fried Rice.jpg",
+    price:"69",
+    bestSeller:true
+  },
+  {
+    name:"Veg Noodles",
+    type:"Veg",
+    description:"Veg Noodles",
+    img:"images/card6/Veg Noodles.jpg",
+    price:"69",
+    bestSeller:true
+  }
+]

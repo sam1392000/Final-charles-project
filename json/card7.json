@@ -1,0 +1,122 @@
+dishes=[
+  {
+    name:"Plain Dosai",
+    type:"Veg",
+    description:"Plain Dosai",
+    img:"images/card7/Plain Dosai.jpeg",
+    price:"23",
+    bestSeller:false
+  },
+  {
+    name:"Special Dosai",
+    type:"Veg",
+    description:"Special Dosai",
+    img:"images/card7/Special Dosai.jpeg",
+    price:"35",
+    bestSeller:false
+  },
+  {
+    name:"Oil  Dosai",
+    type:"Veg",
+    description:"Oil  Dosai",
+    img:"images/card7/Oil  Dosai.jpg",
+    price:"35",
+    bestSeller:false
+  },
+  {
+    name:"Pepper Podi Dosai",
+    type:"Veg",
+    description:"Pepper Podi Dosai",
+    img:"images/card7/Pepper Podi Dosai.jpg",
+    price:"35",
+    bestSeller:false
+  },
+  {
+    name:"Egg Dosai",
+    type:"Non-Veg",
+    description:"Egg Dosai",
+    img:"images/card7/Egg Dosai.jpeg",
+    price:"46",
+    bestSeller:false
+  },
+  {
+    name:"Onion Dosai",
+    type:"Veg",
+    description:"Onion Dosai",
+    img:"images/card7/Onion Dosai.jpg",
+    price:"58",
+    bestSeller:false
+  },
+  {
+    name:"Onion Pepper Dosai",
+    type:"Veg",
+    description:"Onion Pepper Dosai",
+    img:"images/card7/Onion Pepper Dosai.jpg",
+    price:"69",
+    bestSeller:false
+  },
+  {
+    name:"Onion Egg Dosai",
+    type:"Non-Veg",
+    description:"Onion Egg Dosai",
+    img:"images/card7/Onion Egg Dosai.jpg",
+    price:"69",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Kari Dosai",
+    type:"Non-Veg",
+    description:"Mutton Kari Dosai",
+    img:"images/card7/Mutton Kari Dosai.jpg",
+    price:"161",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Kari Dosai",
+    type:"Non-Veg",
+    description:"Chicken Kari Dosai",
+    img:"images/card7/Chicken Kari Dosai.jpg",
+    price:"144",
+    bestSeller:false
+  },
+  {
+    name:"Uttapam",
+    type:"Veg",
+    description:"Uttapam",
+    img:"images/card7/Uttapam.jpg",
+    price:"23",
+    bestSeller:false
+  },
+  {
+    name:"Nei Roast",
+    type:"Veg",
+    description:"Nei Roast",
+    img:"images/card7/Nei Roast.jpg",
+    price:"69",
+    bestSeller:false
+  },
+  {
+    name:"Egg Uttappam",
+    type:"Non-Veg",
+    description:"Egg Uttappam",
+    img:"images/card7/Egg Uttappam.jpg",
+    price:"41",
+    bestSeller:false
+  },
+  {
+    name:"Pepper Podi Uttapam",
+    type:"Veg",
+    description:"Pepper Podi Uttapam",
+    img:"images/card7/Pepper Podi Uttapam.jpg",
+    price:"35",
+    bestSeller:false
+  },
+  {
+    name:"Onion Uttapam",
+    type:"Veg",
+    description:"Onion Uttapam",
+    img:"images/card7/Onion Uttapam.jpg",
+    price:"46",
+    bestSeller:false
+  }
+]

@@ -1,0 +1,162 @@
+dishes=[
+  {
+    name:"Mutton Chukka",
+    type:"Non-Veg",
+    description:"Mutton Chukka",
+    img:"images/card8/Mutton Chukka.jpeg",
+    price:"115",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Muttai Kari",
+    type:"Non-Veg",
+    description:"Mutton Muttai Kari",
+    img:"images/card8/Mutton Muttai Kari.jpg",
+    price:"127",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Pepper Roast",
+    type:"Non-Veg",
+    description:"Mutton Pepper Roast",
+    img:"images/card8/Mutton Pepper Roast.jpg",
+    price:"115",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Chukka Roast",
+    type:"Non-Veg",
+    description:"Mutton Chukka Roast",
+    img:"images/card8/Mutton Chukka Roast.jpg",
+    price:"115",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Tikkai",
+    type:"Non-Veg",
+    description:"Chicken Tikka",
+    img:"images/card8/Chicken Tikkai.jpg",
+    price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chukka",
+    type:"Non-Veg",
+    description:"Chicken Chukka",
+    img:"images/card8/Chicken Chukka.jpg",
+    price:"104",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Muttai Kari",
+    type:"Non-Veg",
+    description:"Chicken Muttai Kari",
+    img:"images/card8/Chicken Muttai Kari.jpg",
+    price:"115",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Pepper Roast",
+    type:"Non-Veg",
+    description:"Chicken Pepper Roast",
+    img:"images/card8/Chicken Pepper Roast.jpg",
+    price:"104",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chukka Roast",
+    type:"Non-Veg",
+    description:"Chicken Chukka Roast",
+    img:"images/card8/Chicken Chukka Roast.jpeg",
+    price:"104",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chops",
+    type:"Non-Veg",
+    description:"Chicken Chops",
+    img:"images/card8/Chicken Chops.jpg",
+    price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chops Roast",
+    type:"Non-Veg",
+    description:"Chicken Chops Roast",
+    img:"images/card8/Chicken Chops Roast.jpeg",
+    price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chops Pepper Roast",
+    type:"Non-Veg",
+    description:"Chicken Chops Pepper Roast",
+    img:"images/card8/Chicken Chops Pepper Roast.jpg",
+    price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Chicken Chops Egg Kari",
+    type:"Non-Veg",
+    description:"Chicken Chops Egg Kari",
+    img:"images/card8/Chicken Chops Egg Kari.jpg",
+    price:"104",
+    bestSeller:false
+  },
+  {
+    name:"Chicken 65",
+    type:"Non-Veg",
+    description:"Chicken 65",
+    img:"images/card8/Chicken 65.jpg",
+    price:"69",
+    bestSeller:false
+  },
+  {
+    name:"Boneless Chicken",
+    type:"Non-Veg",
+    description:"Boneless Chicken",
+    img:"images/card8/Boneless Chicken.jpg",
+    price:"92",
+    bestSeller:true
+  },
+  {
+    name:"Nattu kozhi Dry",
+    type:"Non-Veg",
+    description:"Nattu kozhi Dry",
+    img:"images/card8/Nattu kozhi Dry.jpg",
+    price:"161",
+    bestSeller:true
+  },
+  {
+    name:"Family Chicken",
+    type:"Non-Veg",
+    description:"Family Chicken",
+    img:"images/card8/Family Chicken.png",
+    price:"322",
+    bestSeller:false
+  },
+  {
+    name:"Madura Chicken",
+    type:"Non-Veg",
+    description:"Madura Chicken",
+    img:"images/card8/Madura Chicken.jpeg",
+    price:"81",
+    bestSeller:false
+  },
+  {
+    name:"Grilled Chicken",
+    type:"Non-Veg",
+    description:"Grilled Chicken",
+    img:"images/card8/Grilled Chicken.jpeg",
+    price:"161",
+    bestSeller:true
+  },
+  {
+    name:"Tandoori Chicken",
+    type:"Non-Veg",
+    description:"Tandoori Chicken",
+    img:"images/card8/Tandoori Chicken.jpg",
+    price:"173",
+    bestSeller:true
+  }
+]
