@@ -1,0 +1,26 @@
+dishes=[
+    {
+        name:"Chicken Noodles + Chicken 65 Boneless + Parotta (1Pc) + Pepsi 250 Ml Can",
+        type:"Non-Veg",
+        description:"Chicken Noodles + Chicken 65 Boneless + Parotta (1Pc) + Pepsi 250 Ml Can",
+        img:"images/card1/parotta.jpeg",
+        price:"199",
+        bestSeller:false
+      },
+      {
+        name:"Mutton Biryani + Pepsi 250 Ml Can",
+        type:"Non-Veg",
+        description:"Mutton Biryani + Pepsi 250 Ml Can",
+        img:"images/card1/Veechu_Parotta_Recipe_.jpg",
+        price:"199",
+        bestSeller:false
+      },
+      {
+        name:"Chicken Egg Veechu + Pepsi 250 Ml Can",
+        type:"Non-Veg",
+        description:"Chicken Egg Veechu + Pepsi 250 Ml Can",
+        img:"images/card1/Egg Parotta.jpg",
+        price:"90",
+        bestSeller:true
+      }
+]

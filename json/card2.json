@@ -4,15 +4,15 @@ dishes=[
     type:"Veg",
     description:"kuska biryani recipe is mainly originated from the south indian cuisine especially in hyderabad and tamilnadu.",
     img:"images/card2/Plain Biryani.jpg",
-    price:"58",
-    bestSeller:false
+    price:"90",
+    bestSeller:true
   },
   {
     name:"Egg Biryani",
     type:"Non-Veg",
     description:"Egg Biryani is a must-try recipe for all egg lovers as it promises to take your love for eggs to another level altogether.",
     img:"images/card2/Egg Biryani.jpg",
-    price:"81",
+    price:"120",
     bestSeller:true
   },
   {
@@ -20,7 +20,7 @@ dishes=[
     type:"Non-Veg",
     description:"Chicken Biryani is a savory chicken and rice dish that includes layers of chicken, rice, and aromatics that are steamed together. ",
     img:"images/card2/Chicken Biryani.jpg",
-    price:"127",
+    price:"150",
     bestSeller:false
   },
   {
@@ -28,7 +28,7 @@ dishes=[
     type:"Non-Veg",
     description:"A hearty mutton biryani that will amaze your guests! Biryani is a dish that nobody can ever resist. Be it a dinner party or any celebratory occasion",
     img:"images/card2/Mutton Biryani.jpg",
-    price:"159",
+    price:"200",
     bestSeller:false
   }
 ]

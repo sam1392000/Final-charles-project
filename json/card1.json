@@ -4,7 +4,7 @@ dishes=[
     type:"Veg",
     description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
     img:"images/card1/parotta.jpeg",
-    price:"12",
+    price:"17",
     bestSeller:false
   },
   {
@@ -12,7 +12,7 @@ dishes=[
     type:"Veg",
     description:"The name may come from the Tamil word ‘veesu’ which means to spin/wave in the air. The rolled-out discs of dough gets flipped in the air and spun until it turns paper thin. The corners are then gathered and folded to form an envelope, and the parottas are tawa-fried with a little drizzle of oil.",
     img:"images/card1/Veechu_Parotta_Recipe_.jpg",
-    price:"18",
+    price:"25",
     bestSeller:false
   },
   {
@@ -20,7 +20,23 @@ dishes=[
     type:"Non-Veg",
     description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
     img:"images/card1/Egg Parotta.jpg",
-    price:"69",
+    price:"90",
+    bestSeller:true
+  },
+  {
+    name:"Special Egg Parotta",
+    type:"Non-Veg",
+    description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
+    img:"images/card1/Egg Parotta.jpg",
+    price:"87",
+    bestSeller:true
+  },
+  {
+    name:"Egg Veechu Parotta",
+    type:"Non-Veg",
+    description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
+    img:"images/card1/Egg Parotta.jpg",
+    price:"100",
     bestSeller:true
   },
   {
@@ -44,7 +60,7 @@ dishes=[
     type:"Non-Veg",
     description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
     img:"images/card1/Egg Parotta.jpg",
-    price:"161",
+    price:"184",
     bestSeller:false
   },
   {
@@ -52,7 +68,15 @@ dishes=[
     type:"Non-Veg",
     description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
     img:"images/card1/Egg Parotta.jpg",
-    price:"184",
+    price:"161",
+    bestSeller:false
+  },
+  {
+    name:"Chilli Parotta",
+    type:"Veg",
+    description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
+    img:"images/card1/Chicken Chilli Parotta.jpeg",
+    price:"90",
     bestSeller:false
   },
   {
@@ -60,7 +84,15 @@ dishes=[
     type:"Non-Veg",
     description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
     img:"images/card1/Chicken Chilli Parotta.jpeg",
-    price:"161",
+    price:"180",
+    bestSeller:false
+  },
+  {
+    name:"piece Parotta",
+    type:"Veg",
+    description:"Parotta is a thing of immense joy. Distinct from its North Indian cousin (the Lachcha Parantha) and closer to its Malay counterpart, the Roti Cannai, a good Malabar Paratha is flaky yet fluffy, crisp yet soft.",
+    img:"images/card1/Chicken Chilli Parotta.jpeg",
+    price:"95",
     bestSeller:false
   }
 ]

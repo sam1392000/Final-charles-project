@@ -4,7 +4,7 @@ dishes=[
     type:"Veg",
     description:"Plain Dosai",
     img:"images/card7/Plain Dosai.jpeg",
-    price:"23",
+    price:"40",
     bestSeller:false
   },
   {
@@ -12,7 +12,7 @@ dishes=[
     type:"Veg",
     description:"Special Dosai",
     img:"images/card7/Special Dosai.jpeg",
-    price:"35",
+    price:"45",
     bestSeller:false
   },
   {
@@ -20,7 +20,7 @@ dishes=[
     type:"Veg",
     description:"Oil  Dosai",
     img:"images/card7/Oil  Dosai.jpg",
-    price:"35",
+    price:"45",
     bestSeller:false
   },
   {
@@ -28,7 +28,7 @@ dishes=[
     type:"Veg",
     description:"Pepper Podi Dosai",
     img:"images/card7/Pepper Podi Dosai.jpg",
-    price:"35",
+    price:"45",
     bestSeller:false
   },
   {
@@ -36,7 +36,7 @@ dishes=[
     type:"Non-Veg",
     description:"Egg Dosai",
     img:"images/card7/Egg Dosai.jpeg",
-    price:"46",
+    price:"60",
     bestSeller:false
   },
   {
@@ -44,7 +44,7 @@ dishes=[
     type:"Veg",
     description:"Onion Dosai",
     img:"images/card7/Onion Dosai.jpg",
-    price:"58",
+    price:"60",
     bestSeller:false
   },
   {
@@ -64,19 +64,19 @@ dishes=[
     bestSeller:false
   },
   {
-    name:"Mutton Kari Dosai",
+    name:"Mutton curry Dosai",
     type:"Non-Veg",
     description:"Mutton Kari Dosai",
     img:"images/card7/Mutton Kari Dosai.jpg",
-    price:"161",
+    price:"180",
     bestSeller:false
   },
   {
-    name:"Chicken Kari Dosai",
+    name:"Chicken curry Dosai",
     type:"Non-Veg",
     description:"Chicken Kari Dosai",
     img:"images/card7/Chicken Kari Dosai.jpg",
-    price:"144",
+    price:"170",
     bestSeller:false
   },
   {
@@ -84,7 +84,7 @@ dishes=[
     type:"Veg",
     description:"Uttapam",
     img:"images/card7/Uttapam.jpg",
-    price:"23",
+    price:"30",
     bestSeller:false
   },
   {
@@ -117,6 +117,22 @@ dishes=[
     description:"Onion Uttapam",
     img:"images/card7/Onion Uttapam.jpg",
     price:"46",
+    bestSeller:false
+  },
+  {
+    name:"Chapati",
+    type:"Veg",
+    description:"Onion Uttapam",
+    img:"images/card7/Onion Uttapam.jpg",
+    price:"15",
+    bestSeller:false
+  },
+  {
+    name:"Egg kothu Chapathi",
+    type:"Non-Veg",
+    description:"Onion Uttapam",
+    img:"images/card7/Onion Uttapam.jpg",
+    price:"86",
     bestSeller:false
   }
 ]

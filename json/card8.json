@@ -4,39 +4,32 @@ dishes=[
     type:"Non-Veg",
     description:"Mutton Chukka",
     img:"images/card8/Mutton Chukka.jpeg",
-    price:"115",
+    price:"140 ",
     bestSeller:false
   },
   {
-    name:"Mutton Muttai Kari",
+    name:"Mutton Mutta Kari",
     type:"Non-Veg",
     description:"Mutton Muttai Kari",
     img:"images/card8/Mutton Muttai Kari.jpg",
-    price:"127",
+    price:"150",
     bestSeller:false
   },
   {
-    name:"Mutton Pepper Roast",
+    name:"Mutton Chettinad",
     type:"Non-Veg",
-    description:"Mutton Pepper Roast",
-    img:"images/card8/Mutton Pepper Roast.jpg",
-    price:"115",
+    description:"Mutton Muttai Kari",
+    img:"images/card8/Mutton Muttai Kari.jpg",
+    price:"180",
     bestSeller:false
   },
-  {
-    name:"Mutton Chukka Roast",
-    type:"Non-Veg",
-    description:"Mutton Chukka Roast",
-    img:"images/card8/Mutton Chukka Roast.jpg",
-    price:"115",
-    bestSeller:false
-  },
+ 
   {
     name:"Chicken Tikkai",
     type:"Non-Veg",
     description:"Chicken Tikka",
     img:"images/card8/Chicken Tikkai.jpg",
-    price:"92",
+    price:"120",
     bestSeller:false
   },
   {
@@ -108,7 +101,7 @@ dishes=[
     type:"Non-Veg",
     description:"Chicken 65",
     img:"images/card8/Chicken 65.jpg",
-    price:"69",
+    price:"90",
     bestSeller:false
   },
   {
@@ -116,15 +109,15 @@ dishes=[
     type:"Non-Veg",
     description:"Boneless Chicken",
     img:"images/card8/Boneless Chicken.jpg",
-    price:"92",
+    price:"98",
     bestSeller:true
   },
   {
-    name:"Nattu kozhi Dry",
+    name:"Nattu kozhi fry",
     type:"Non-Veg",
     description:"Nattu kozhi Dry",
     img:"images/card8/Nattu kozhi Dry.jpg",
-    price:"161",
+    price:"220",
     bestSeller:true
   },
   {
@@ -140,7 +133,31 @@ dishes=[
     type:"Non-Veg",
     description:"Madura Chicken",
     img:"images/card8/Madura Chicken.jpeg",
-    price:"81",
+    price:"100",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Eeral Muttai Roast",
+    type:"Non-Veg",
+    description:"Madura Chicken",
+    img:"images/card8/Madura Chicken.jpeg",
+    price:"127",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Eeral Pepper Roast",
+    type:"Non-Veg",
+    description:"Madura Chicken",
+    img:"images/card8/Madura Chicken.jpeg",
+    price:"115",
+    bestSeller:false
+  },
+  {
+    name:"Mutton Eeral",
+    type:"Non-Veg",
+    description:"Madura Chicken",
+    img:"images/card8/Madura Chicken.jpeg",
+    price:"115",
     bestSeller:false
   },
   {
@@ -148,7 +165,7 @@ dishes=[
     type:"Non-Veg",
     description:"Grilled Chicken",
     img:"images/card8/Grilled Chicken.jpeg",
-    price:"161",
+    price:"190",
     bestSeller:true
   },
   {
@@ -156,7 +173,23 @@ dishes=[
     type:"Non-Veg",
     description:"Tandoori Chicken",
     img:"images/card8/Tandoori Chicken.jpg",
-    price:"173",
+    price:"200",
+    bestSeller:true
+  },
+  {
+    name:"Naan (1 pcs)",
+    type:"Veg",
+    description:"Tandoori Chicken",
+    img:"images/card8/Tandoori Chicken.jpg",
+    price:"45",
+    bestSeller:true
+  },
+  {
+    name:"Butter Naan",
+    type:"Veg",
+    description:"Tandoori Chicken",
+    img:"images/card8/Tandoori Chicken.jpg",
+    price:"55",
     bestSeller:true
   }
 ]

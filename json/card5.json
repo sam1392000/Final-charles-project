@@ -4,15 +4,15 @@ dishes=[
     type:"Non-Veg",
     description:"Chilli chicken is a popular Indo-Chinese dish of chicken of Hakka Chinese heritage. In India, this may include a variety of dry chicken preparations.",
     img:"images/card5/Chilli Chicken.jpg",
-    price:"138",
-    bestSeller:false
+    price:"160",
+    bestSeller:true
   },
   {
     name:"Pepper Chicken",
     type:"Non-Veg",
     description:"Pepper & Chicken fry",
     img:"images/card5/Pepper Chicken.jpg",
-    price:"138",
+    price:"160",
     bestSeller:true
   },
   {
@@ -20,7 +20,7 @@ dishes=[
     type:"Non-Veg",
     description:"Ginger & Chicken fry",
     img:"images/card5/Ginger Chicken.jpg",
-    price:"138",
+    price:"160",
     bestSeller:false
   },
   {
@@ -28,15 +28,15 @@ dishes=[
     type:"Non-Veg",
     description:"Butter Chicken Gravy",
     img:"images/card5/Butter Chicken.jpg",
-    price:"138",
+    price:"160",
     bestSeller:false
   },
   {
-    name:"Kadaai Chicken",
+    name:"Kadai 65",
     type:"Non-Veg",
     description:"Kadaai Chicken Gravy",
     img:"images/card5/Kadaai Chicken.jpg",
-    price:"138",
+    price:"130",
     bestSeller:false
   },
   {
@@ -44,7 +44,7 @@ dishes=[
     type:"Non-Veg",
     description:"Garlic Chicken Gravy",
     img:"images/card5/Garlic Chicken.jpg",
-    price:"138",
+    price:"160",
     bestSeller:true
   },
   {
@@ -52,7 +52,7 @@ dishes=[
     type:"Non-Veg",
     description:"Chettinadu Chicken Gravy",
     img:"images/card5/Chettinadu Chicken.jpg",
-    price:"138",
+    price:"160",
     bestSeller:true
   },
   {
@@ -60,7 +60,7 @@ dishes=[
     type:"Non-Veg",
     description:"Nattukozhi Gravy",
     img:"images/card5/Nattukozhi Gravy.jpg",
-    price:"173",
-    bestSeller:false
+    price:"250",
+    bestSeller:true
   }
 ]

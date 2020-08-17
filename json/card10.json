@@ -1,0 +1,42 @@
+dishes=[
+    {
+        name:"Chicken Tandoori (Quarter) + Parotta (3 Pcs)",
+        type:"Non-Veg",
+        description:"Chicken Tandoori (Quarter) + Parotta (3 Pcs)",
+        img:"images/card1/parotta.jpeg",
+        price:"149",
+        bestSeller:false
+      },
+      {
+        name:"Chicken Noodles + Chicken 65 Boneless + Parotta (1Pc)",
+        type:"Non-Veg",
+        description:"Chicken Noodles + Chicken 65 Boneless + Parotta (1Pc)",
+        img:"images/card1/Veechu_Parotta_Recipe_.jpg",
+        price:"159",
+        bestSeller:false
+      },
+      {
+        name:"Chapati (3 Pcs) + Butter Chicken Gravy",
+        type:"Non-Veg",
+        description:"Chapati (3 Pcs) + Butter Chicken Gravy",
+        img:"images/card1/Egg Parotta.jpg",
+        price:"160",
+        bestSeller:true
+      },
+      {
+        name:"Chicken Fried Rice + Chicken Tikka (4 Pcs) + Parotta (1Pc)",
+        type:"Non-Veg",
+        description:"Chicken Fried Rice + Chicken Tikka (4 Pcs) + Parotta (1Pc)",
+        img:"images/card1/Egg Parotta.jpg",
+        price:"170",
+        bestSeller:true
+      },
+      {
+        name:"Parotta (3 Pcs) + Pepper Chicken",
+        type:"Non-Veg",
+        description:"Parotta (3 Pcs) + Pepper Chicken",
+        img:"images/card1/Egg Parotta.jpg",
+        price:"155",
+        bestSeller:true
+      }
+]

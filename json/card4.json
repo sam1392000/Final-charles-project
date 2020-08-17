@@ -1,26 +1,26 @@
 dishes=[
   {
-    name:"Mutton Kudal Kolambu",
+    name:"Moolai",
     type:"Non-Veg",
     description:"Mutton and Kudal Kolambu",
     img:"images/card4/Mutton Kudal Kolambu.jpg",
-    price:"69",
+    price:"140",
     bestSeller:false
   },
   {
-    name:"Mutton Kudal Roast",
+    name:"Egg Mutton Moolai",
     type:"Non-Veg",
     description:"Mutton and Kudal Roast",
     img:"images/card4/Mutton Kudal Roast.jpeg",
-    price:"81",
+    price:"150",
     bestSeller:true
   },
   {
-    name:"Muttai Kudal",
+    name:"Moolai Mutton Pepper Roast",
     type:"Non-Veg",
     description:"Muttai and Kudal",
     img:"images/card4/Muttai Kudal.jpg",
-    price:"92",
+    price:"117",
     bestSeller:false
   },
   {
@@ -29,6 +29,30 @@ dishes=[
     description:"Kudal fried with Pepper and Roast",
     img:"images/card4/Kudal Pepper Roast.jpg",
     price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Muttai Kudal",
+    type:"Non-Veg",
+    description:"Kudal fried with Pepper and Roast",
+    img:"images/card4/Kudal Pepper Roast.jpg",
+    price:"92",
+    bestSeller:false
+  },
+  {
+    name:"Kudal Roast",
+    type:"Non-Veg",
+    description:"Kudal fried with Pepper and Roast",
+    img:"images/card4/Kudal Pepper Roast.jpg",
+    price:"81",
+    bestSeller:false
+  },
+  {
+    name:"Kudal Dry",
+    type:"Non-Veg",
+    description:"Kudal fried with Pepper and Roast",
+    img:"images/card4/Kudal Pepper Roast.jpg",
+    price:"69",
     bestSeller:false
   }
 ]
