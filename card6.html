@@ -15,34 +15,6 @@
 
 
     <script type="text/javascript" src="json/card6.json"></script>
-    <script type="text/javascript">
-      $(document).ready(function(){
-        dishes.forEach((dish, i) => {
-          $("body").append(`
-            <div class="card m-5 shadow rounded">
-              <h4 class="m-3 ml-5">${dish.name} <span class="badge ${dish.type=="Veg"?"badge-success":"badge-danger"}">${dish.type}</span></h4>
-              <div class="card-body">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-sm-8">
-                              ${dish.description}<br>
-                              <h6>&#8377; ${dish.price} ${dish.bestSeller? "<span>Best Seller</span>":""}</h6>
-                              <button class="btn btn-large primary m-3 mt-10 swiggy">Swiggy</button>
-                              <button class="btn btn-large primary m-3 mt-10 zomato">Zomato</button>
-                          </div>
-                          <div class="col-sm-4 dish-img">
-                              <img src="${dish.img}" alt="logo">
-                          </div>
-
-                      </div>
-                  </div>
-              </div>
-          </div>`);
-        });
-
-
-
-      });
-    </script>
+    <script src="cards.js"></script>
 </body>
 </html>

@@ -14,42 +14,6 @@
     <h1 class="text m-5 pt-5">Starter</h1>
 
     <script type="text/javascript" src="json/card8.json"></script>
-    <script type="text/javascript">
-      $(document).ready(function(){
-
-        let html = `
-        <div class="container">
-            <div class="row">`;
-
-        dishes.forEach((dish, i) => {
-          html+=`
-            <div class="col-sm-3 mt-2">
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" style="height: 12rem; object-fit: cover;" src="${dish.img}" alt="Card image cap">
-                    <div class="card-body">
-                      <h5 class="card-title">${dish.name}  <span class="badge ${dish.type=="Veg"?"badge-success":"badge-danger"}">${dish.type}</span></h5>
-                      <p class="card-text">${dish.description}<br><h3>&#8377; ${dish.price} ${dish.bestSeller? "Best Seller":""}</h3></p>
-                      <button class="btn btn-large primary m-3 mt-10 swiggy">Swiggy</button>
-                      <button class="btn btn-large primary m-3 mt-10 zomato">Zomato</button>
-                    </div>
-                  </div>
-            </div>`;
-
-            if((i+1)%4==0)
-              html+=`
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">`;
-          });
-
-        html+=`
-          </div>
-      </div>`;
-
-      $("body").append(html);
-
-      });
-    </script>
+    <script src="cards.js"></script>
 </body>
 </html>
