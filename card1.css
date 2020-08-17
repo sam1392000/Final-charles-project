@@ -1,37 +1,43 @@
-.shadow{
+.shadow {
     display: flex;
     flex-wrap: wrap-reverse;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     /* border-radius: 2em; */
 }
-.swiggy{
+
+.swiggy {
     background-color: #fc8019;
     color: azure;
     border-radius: 3px;
 }
-.zomato{
+
+.zomato {
     background-color: red;
     color: azure;
     border-radius: 3px;
 }
-.image{
+
+.image {
     display: flex;
     align-items: center;
 }
-body{
+
+body {
     /* display: flex; */
 }
-.text{
+
+.text {
     display: flex;
     justify-content: center;
+    font-family: 'Alata', sans-serif;
 }
 
-.dish-img img{
-  width: 100%;
-  max-height: 170px;
-  object-fit: cover;
+.dish-img img {
+    width: 100%;
+    max-height: 170px;
+    object-fit: cover;
 }
 
-.dish-card{
+.dish-card {
     height: 500px;
 }
