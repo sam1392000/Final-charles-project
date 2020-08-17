@@ -6,8 +6,8 @@ $(document).ready(function(){
 
     dishes.forEach((dish, i) => {
       html+=`
-        <div class="col-sm-3 mt-2">
-            <div class="card" style="width: 18rem;">
+        <div class="col-sm-3 mt-2 ">
+            <div class="card dish-card" style="width: 18rem;">
                 <img class="card-img-top" style="height: 12rem; object-fit: cover;" src="${dish.img}" alt="Card image cap">
                 <div class="card-body">
                   <h5 class="card-title">${dish.name}  <span class="badge ${dish.type=="Veg"?"badge-success":"badge-danger"}">${dish.type}</span></h5>

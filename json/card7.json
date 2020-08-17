@@ -122,16 +122,16 @@ dishes=[
   {
     name:"Chapati",
     type:"Veg",
-    description:"Onion Uttapam",
-    img:"images/card7/Onion Uttapam.jpg",
+    description:"Chapati",
+    img:"images/card7/Chapati.jpeg",
     price:"15",
     bestSeller:false
   },
   {
     name:"Egg kothu Chapathi",
     type:"Non-Veg",
-    description:"Onion Uttapam",
-    img:"images/card7/Onion Uttapam.jpg",
+    description:"Egg kothu Chapathi",
+    img:"images/card7/Egg kothu Chapathi.jpg",
     price:"86",
     bestSeller:false
   }

@@ -31,3 +31,7 @@ body{
   max-height: 170px;
   object-fit: cover;
 }
+
+.dish-card{
+    height: 500px;
+}

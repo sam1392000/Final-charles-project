@@ -18,8 +18,8 @@ dishes=[
   {
     name:"Mutton Chettinad",
     type:"Non-Veg",
-    description:"Mutton Muttai Kari",
-    img:"images/card8/Mutton Muttai Kari.jpg",
+    description:"Mutton Chettinad",
+    img:"images/card8/Mutton Chettinad.jpg",
     price:"180",
     bestSeller:false
   },
@@ -139,24 +139,24 @@ dishes=[
   {
     name:"Mutton Eeral Muttai Roast",
     type:"Non-Veg",
-    description:"Madura Chicken",
-    img:"images/card8/Madura Chicken.jpeg",
+    description:"Mutton Eeral",
+    img:"images/card8/Mutton Eeral.jpeg",
     price:"127",
     bestSeller:false
   },
   {
     name:"Mutton Eeral Pepper Roast",
     type:"Non-Veg",
-    description:"Madura Chicken",
-    img:"images/card8/Madura Chicken.jpeg",
+    description:"Mutton Eeral Pepper Roast",
+    img:"images/card8/Mutton Eeral.jpeg",
     price:"115",
     bestSeller:false
   },
   {
     name:"Mutton Eeral",
     type:"Non-Veg",
-    description:"Madura Chicken",
-    img:"images/card8/Madura Chicken.jpeg",
+    description:"Mutton Eeral",
+    img:"images/card8/Mutton Eeral.jpeg",
     price:"115",
     bestSeller:false
   },
@@ -179,16 +179,16 @@ dishes=[
   {
     name:"Naan (1 pcs)",
     type:"Veg",
-    description:"Tandoori Chicken",
-    img:"images/card8/Tandoori Chicken.jpg",
+    description:"Naan",
+    img:"images/card8/Naan.jpg",
     price:"45",
     bestSeller:true
   },
   {
     name:"Butter Naan",
     type:"Veg",
-    description:"Tandoori Chicken",
-    img:"images/card8/Tandoori Chicken.jpg",
+    description:"Butter Naan",
+    img:"images/card8/Butter Naan.jpg",
     price:"55",
     bestSeller:true
   }

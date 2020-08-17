@@ -50,8 +50,8 @@ dishes=[
   {
     name:"Egg Rice",
     type:"Non-Veg",
-    description:"Veg Noodles",
-    img:"images/card6/Veg Noodles.jpg",
+    description:"Egg Rice",
+    img:"images/card6/Egg Rice.jpg",
     price:"110",
     bestSeller:true
   }
