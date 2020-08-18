@@ -2,7 +2,7 @@ dishes=[
   {
     name:"Chilli Chicken",
     type:"Non-Veg",
-    description:"Chilli chicken is a popular Indo-Chinese dish of chicken of Hakka Chinese heritage. In India, this may include a variety of dry chicken preparations.",
+    description:"Chilli chicken",
     img:"images/card5/Chilli Chicken.jpg",
     price:"160",
     bestSeller:true

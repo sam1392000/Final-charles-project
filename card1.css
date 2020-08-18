@@ -38,6 +38,13 @@ body {
     object-fit: cover;
 }
 
-.dish-card {
-    height: 500px;
+.dish-card h5 {
+    height: 75px;
+    overflow: hidden;
+}
+
+.dish-card p{
+    height: 45px;
+    overflow: hidden;
+    color: grey;
 }

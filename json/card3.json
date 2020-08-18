@@ -2,7 +2,7 @@ dishes=[
   {
     name:"Omelette",
     type:"Non-Veg",
-    description:"omelet is a dish made from beaten eggs, fried with butter or oil in a frying pan. It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat.",
+    description:"Omelette",
     img:"images/card3/Omelette.jpg",
     price:"25",
     bestSeller:false
@@ -10,7 +10,7 @@ dishes=[
   {
     name:"Egg poriyal",
     type:"Non-Veg",
-    description:"Egg poriyal is a dish made from beaten eggs, fried with butter or oil in a frying pan. It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat.",
+    description:"Egg poriyal",
     img:"images/card3/Egg poriyal.jpg",
     price:"30",
     bestSeller:true
@@ -18,7 +18,7 @@ dishes=[
   {
     name:"Egg podimass",
     type:"Non-Veg",
-    description:"Egg podimass is a dish made from beaten eggs, fried with butter or oil in a frying pan. It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat.",
+    description:"Egg podimass",
     img:"images/card3/Egg poriyal.jpg",
     price:"30",
     bestSeller:false
@@ -26,7 +26,7 @@ dishes=[
   {
     name:"Vadiyal",
     type:"Non-Veg",
-    description:"Vadiyal is a dish made from beaten eggs, fried with butter or oil in a frying pan. It is quite common for the omelette to be folded around fillings such as cheese, chives, vegetables, mushrooms, meat.",
+    description:"Vadiyal",
     img:"images/card3/Vadiyal.jpeg",
     price:"30",
     bestSeller:false
@@ -34,7 +34,7 @@ dishes=[
   {
     name:"Boiled Egg",
     type:"Non-Veg",
-    description:"cooked with their shells unbroken, usually by immersion in boiling water",
+    description:"Boiled Egg",
     img:"images/card3/Boiled Egg.jpg",
     price:"15",
     bestSeller:false
