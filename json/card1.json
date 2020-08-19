@@ -1,98 +1,97 @@
-dishes=[
-  {
-    name:"Parotta",
-    type:"Veg",
-    description:"Parotta",
-    img:"images/card1/parotta.jpeg",
-    price:"17",
-    bestSeller:false
-  },
-  {
-    name:"Veechu Parotta",
-    type:"Veg",
-    description:"Veechu Parotta",
-    img:"images/card1/Veechu_Parotta_Recipe_.jpg",
-    price:"25",
-    bestSeller:false
-  },
-  {
-    name:"Egg Parotta",
-    type:"Non-Veg",
-    description:"Egg Parotta",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"90",
-    bestSeller:true
-  },
-  {
-    name:"Special Egg Parotta",
-    type:"Non-Veg",
-    description:"Special Egg Parotta",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"87",
-    bestSeller:true
-  },
-  {
-    name:"Egg Veechu Parotta",
-    type:"Non-Veg",
-    description:"Egg Veechu Parotta",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"100",
-    bestSeller:true
-  },
-  {
-    name:"Chicken Egg  Parotta",
-    type:"Non-Veg",
-    description:"Chicken Egg  Parotta",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"161",
-    bestSeller:true
-  },
-  {
-    name:"Mutton Egg Parotta",
-    type:"Non-Veg",
-    description:"Mutton Egg Parotta",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"184",
-    bestSeller:false
-  },
-  {
-    name:"Mutton Egg veechu",
-    type:"Non-Veg",
-    description:"Mutton Egg veechu",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"184",
-    bestSeller:false
-  },
-  {
-    name:"Chicken Egg veechu",
-    type:"Non-Veg",
-    description:"Chicken Egg veechu",
-    img:"images/card1/Egg Parotta.jpeg",
-    price:"161",
-    bestSeller:false
-  },
-  {
-    name:"Chilli Parotta",
-    type:"Veg",
-    description:"Chilli Parotta",
-    img:"images/card1/Chicken Chilli Parotta.jpeg",
-    price:"90",
-    bestSeller:false
-  },
-  {
-    name:"Chicken Chilli Parotta",
-    type:"Non-Veg",
-    description:"Chicken Chilli Parotta",
-    img:"images/card1/Chicken Chilli Parotta.jpeg",
-    price:"180",
-    bestSeller:false
-  },
-  {
-    name:"piece Parotta",
-    type:"Veg",
-    description:"piece Parotta",
-    img:"images/card1/Chicken Chilli Parotta.jpeg",
-    price:"95",
-    bestSeller:false
-  }
+dishes = [{
+        name: "Parotta",
+        type: "Veg",
+        description: "Parotta",
+        img: "images/card1/parotta.jpeg",
+        price: "17",
+        bestSeller: false
+    },
+    {
+        name: "Veechu Parotta",
+        type: "Veg",
+        description: "Veechu Parotta",
+        img: "images/card1/Veechu_Parotta_Recipe_.jpg",
+        price: "25",
+        bestSeller: false
+    },
+    {
+        name: "Mutta Parotta",
+        type: "Non-Veg",
+        description: "Egg Parotta",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "90",
+        bestSeller: true
+    },
+    {
+        name: "Special Egg Parotta",
+        type: "Non-Veg",
+        description: "Special Egg Parotta",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "87",
+        bestSeller: true
+    },
+    {
+        name: "Egg Veechu Parotta",
+        type: "Non-Veg",
+        description: "Egg Veechu Parotta",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "100",
+        bestSeller: true
+    },
+    {
+        name: "Chicken Egg  Parotta",
+        type: "Non-Veg",
+        description: "Chicken Egg  Parotta",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "161",
+        bestSeller: true
+    },
+    {
+        name: "Mutton Egg Parotta",
+        type: "Non-Veg",
+        description: "Mutton Egg Parotta",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "184",
+        bestSeller: false
+    },
+    {
+        name: "Mutton Egg veechu",
+        type: "Non-Veg",
+        description: "Mutton Egg veechu",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "184",
+        bestSeller: false
+    },
+    {
+        name: "Chicken Egg veechu",
+        type: "Non-Veg",
+        description: "Chicken Egg veechu",
+        img: "images/card1/Egg Parotta.jpeg",
+        price: "161",
+        bestSeller: false
+    },
+    {
+        name: "Chilli Parotta",
+        type: "Veg",
+        description: "Chilli Parotta",
+        img: "images/card1/Chicken Chilli Parotta.jpeg",
+        price: "90",
+        bestSeller: false
+    },
+    {
+        name: "Chicken Chilli Parotta",
+        type: "Non-Veg",
+        description: "Chicken Chilli Parotta",
+        img: "images/card1/Chicken Chilli Parotta.jpeg",
+        price: "180",
+        bestSeller: false
+    },
+    {
+        name: "piece Parotta",
+        type: "Veg",
+        description: "piece Parotta",
+        img: "images/card1/Chicken Chilli Parotta.jpeg",
+        price: "95",
+        bestSeller: false
+    }
 ]
